@@ -1,0 +1,22 @@
+#blog{
+    width: 90%;
+    margin: 0;
+    margin: auto;
+}
+#images{
+    height: 100px;
+    width: 100px;
+}
+#pictures{
+    width: 10%;
+    float: left;
+    overflow: hidden;
+}
+#verhaal{
+    width: 80%;
+    overflow: hidden;
+}
+#text{
+    width: 500px;
+    height: 250px;
+}
